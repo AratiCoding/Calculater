@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(226, 247, 240);
+}
+.main{
+  border:2px solid black;
+  width: 380px;
+  margin:30px 400px;
+  height: 533px;
+  border-radius: 27px;
+  background: gray;
+}
+.cal{
+  width: 320px;
+  margin:30px auto;
+ 
+}
+#answer{
+  background-color: antiquewhite;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid black;
+}
+.button{
+  background:#333;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border-radius: 1px solid black;
+}
+.button1{
+  width: 240px;
+}
